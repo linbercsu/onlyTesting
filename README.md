@@ -1,6 +1,6 @@
-cefg
+cfg
 nono
-abcfg
+acfg
 haha
 xyz
 xyzabcefg
